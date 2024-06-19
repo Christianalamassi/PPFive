@@ -7,7 +7,8 @@ class Multiple:
         self.app_name = app_name
 
         st.set_page_config(
-            page_title = self.app_name
+            page_title = self.app_name,
+            page_icon = '🌱'
         )
 
     def app_page(self, title, function) -> None:

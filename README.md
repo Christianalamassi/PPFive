@@ -2,14 +2,13 @@
 
 
 ## Dataset Content
-* This dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/codeinstitute/housing-prices-data) and it contains info about Heart Failure Prediction.
-
-
+* This dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/codeinstitute/housing-prices-data) and it contains info about healthy Cherry leaves and powdery_mildew.
+* The dataset contains 2104 images of healthy Cherry leaves and powdery mildew.
 
 
 ## Business Requirements
-* The client is interested in 
-* The client is interested in 
+* The client is interested in conducting a study to distinguish between healthy leaves or moldy leaves.
+* The client is interested in knowing whether a given leaf contains mold or not.
 
 ## Hypothesis and how to validate?
 
